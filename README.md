@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Frontend Software Engineer with 4+ years of experience** building scalable, high-performance web applications using **React.js** and **TypeScript**.
+I’m a **Frontend Software Engineer with 4+ years of experience** building scalable, high-performance web applications using **React.js**, **TypeScript**, and **JavaScript**.
 
 I enjoy solving **complex UI problems**, optimizing performance, and designing **clean, reusable component systems**. Over time, I’ve taken ownership of frontend architecture, mentored developers, and improved overall code quality across projects.
 
@@ -24,17 +24,25 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 ## 🧠 Technical Expertise
 
 ### 🧩 Core Technologies
-- React.js, TypeScript, JavaScript (ES6+)
+- React.js
+- TypeScript
+- JavaScript (ES6+)
 - Redux & modern state management patterns
+- Redux-Saga (handling async flows & side effects)
 - Micro-frontend architecture
+
+---
 
 ### ⚡ Performance & Quality
 - Performance optimization & profiling
 - Code splitting & lazy loading
-- Testing with **Jest** & **React Testing Library**
+- Testing with **Jest**, **Vitest**, and **React Testing Library**
+
+---
 
 ### 🛠 Tooling
 - Vite
+- Webpack
 - Git & GitHub
 - Jira
 - Azure
@@ -51,14 +59,15 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 ## 🌱 Currently Learning
 - AI integration in frontend applications
 - Large Language Models (LLMs)
-- JavaScript
-- DSA
+- Advanced JavaScript concepts
+- Data Structures & Algorithms (DSA)
 
 ---
 
 ## 💬 Ask Me About
 - React & modern frontend patterns
-- JavaScript fundamentals
+- JavaScript & asynchronous programming
+- Redux / Redux-Saga architecture
 - Frontend performance optimization
 - Problem-solving & debugging
 
@@ -87,6 +96,7 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 ### 🎨 Markup, Styling & Core Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ECMAScript 6](https://img.shields.io/badge/ES6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
@@ -102,6 +112,7 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 
 ### 🧠 State Management
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/redux--saga-999999.svg?style=for-the-badge&logo=redux-saga&logoColor=white)
 
 ---
 
