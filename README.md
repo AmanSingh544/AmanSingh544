@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👋 **Hi, I’m Aks**  
+👋 **Hi, I’m Aman Kumar Singh**  
 🚀 **Software Developer | React.js | TypeScript | Frontend Architecture**
 
 ✨ Building fast, scalable & maintainable user interfaces ✨
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Frontend Software Engineer with 3+ years of experience** building scalable, high-performance web applications using **React.js** and **TypeScript**.
+I’m a **Frontend Software Engineer with 4+ years of experience** building scalable, high-performance web applications using **React.js** and **TypeScript**.
 
 I enjoy solving **complex UI problems**, optimizing performance, and designing **clean, reusable component systems**. Over time, I’ve taken ownership of frontend architecture, mentored developers, and improved overall code quality across projects.
 
@@ -36,6 +36,8 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 ### 🛠 Tooling
 - Vite
 - Git & GitHub
+- Jira
+- Azure
 
 ---
 
@@ -49,6 +51,8 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 ## 🌱 Currently Learning
 - AI integration in frontend applications
 - Large Language Models (LLMs)
+- JavaScript
+- DSA
 
 ---
 
@@ -68,7 +72,6 @@ My goal is to build **fast, maintainable, and user-centric interfaces** that sca
 
 ## 📌 Featured Projects
 *(Coming soon — production-grade React & performance-focused projects)*  
-You can later replace this section with pinned repositories.
 
 ---
 
@@ -93,14 +96,6 @@ You can later replace this section with pinned repositories.
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AmanSingh544&theme=dark&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AmanSingh544&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh544&theme=dark&hide_border=true&layout=compact)
 
 ---
 
