@@ -85,7 +85,7 @@ A **multi-tenant AI-powered customer support platform** built end-to-end as a so
 
 ---
 
-### [JinAi — Bug Intelligence Platform](https://github.com/AmanSingh544/jinai)
+### [JinAi — Bug Intelligence Platform](https://github.com/AmanSingh544/JinAi-BugIntelligence)
 > TypeScript · React · NestJS · BullMQ · PostgreSQL · pgvector · Redis · Chrome Extensions API · Anthropic Claude SDK
 
 A **full-stack AI-powered browser observability system** built solo.
@@ -106,17 +106,6 @@ An **open-source npm CLI** for the JinAi ecosystem — automates sourcemap uploa
 - **Auto-detects commit SHA** from Vercel, GitHub Actions, Cloudflare Pages, and Netlify — with a git/timestamp fallback
 - Supports `--dry-run`, `--quiet`, full flag/env-var parity — zero config for most setups
 - Works with **Vite, Webpack, Next.js, and Rollup** builds
-
----
-
-### [Chat with PDF — RAG Pipeline](https://github.com/AmanSingh544/chat-with-pdf)
-> Python · RAG · OpenAI · NVIDIA NIM · LangChain · FAISS
-
-An end-to-end **Retrieval-Augmented Generation** pipeline for querying PDFs with natural language.
-
-- Document chunking + vector embedding via OpenAI and NVIDIA NIM models
-- FAISS vector store for fast semantic similarity search
-- LangChain orchestration — retrieves relevant chunks and feeds context to the LLM for grounded answers
 
 ---
 
